@@ -1,6 +1,6 @@
 # open-source-explained
 
-We are commissioning a physical booklet explaining open-source to the NHS. Summarising everything open-source into an easy-to-read format with pictures and infographics, that introduces the idea to NHS staff. 
+We are commissioning a physical booklet summarising everything open-source into an easy-to-read format with pictures and infographics, that introduces the idea to NHS staff. 
 
 ## Chapters
 
