@@ -45,6 +45,9 @@ We are commissioning a physical booklet summarising everything open-source into 
 - [NHSX Open Source Policy (DRAFT)](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md)
 - [RAP Community of Practice](https://github.com/NHSDigital/rap-community-of-practice). NHS Digital
 - [Reproducible Analytical Pipelines](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/)
-- [ The Aqua Book: guidance on producing quality analysis for government ](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government)
+- [Benefits to government from Reproducible Analytical Pipelines](https://gss.civilservice.gov.uk/reproducible-analytical-pipelines/benefits-to-government-from-reproducible-analytical-pipelines/). The Government Statistical Service (GSS)
+- [The Aqua Book: guidance on producing quality analysis for government ](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government)
+- [Quality assurance of code for analysis and research](https://best-practice-and-impact.github.io/qa-of-code-guidance/checklist_higher.html). UK Government Analytical Community, ONS
 - [NHS England IT Standards](https://nhsengland.github.io/it-standards/#/euc/desktop-software?id=open-source-amp-free-software). NHS England
+- [The Turing Way handbook to reproducible, ethical and collaborative data science](https://the-turing-way.netlify.app/welcome.html). The Turing Way Community
 - [R: A Language and Environment for Statistical Computing](https://www.R-project.org/). R Core Team
