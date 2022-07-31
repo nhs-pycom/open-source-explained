@@ -10,15 +10,15 @@ We are commissioning a physical booklet summarising everything open-source into 
      - Privileged Credentials
      - Sensitive Information
      - Proprietary Information
-- R and Python [[1](https://www.R-project.org/),[2]]
-  - Access to open source tools
+- Open-source Tools
+  - R [[1](https://www.R-project.org/)]
+  - Python
+  - IDEs
+  - Notebooks
+  - Cloud Computing
+  - Access to open-source tools
     - Security Concerns
     - Information Governance
-- Communities of Practice
-  - NHS-R
-  - NHS Python
-  - RAP
-  - Conferences
 - Git and GitHub/GitLab
   - Version Control
   - Pull Request
@@ -31,6 +31,11 @@ We are commissioning a physical booklet summarising everything open-source into 
   - Unit Testing
   - Tidy Data
   - Automation
+- Communities of Practice
+  - NHS-R
+  - NHS Python
+  - RAP
+  - Conferences
 - NHS Policy [[1](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md),[2](https://nhsengland.github.io/it-standards/#/euc/desktop-software?id=open-source-amp-free-software)]
 - Open Data / Synthetic Data
 - Professional Development
