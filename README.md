@@ -10,21 +10,29 @@ We are commissioning a physical booklet summarising everything open-source into 
      - Privileged Credentials
      - Sensitive Information
      - Proprietary Information
-- R and Python
+- R and Python [[1](https://www.R-project.org/),[2]]
+  - Access to open source tools
+    - Security Concerns
+    - Information Governance
 - Communities of Practice
   - NHS-R
   - NHS Python
   - RAP
+  - Conferences
 - Git and GitHub/GitLab
 - Reproducible Analytical Pipelines
 - NHS Policy [[1](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md),[2](https://nhsengland.github.io/it-standards/#/euc/desktop-software?id=open-source-amp-free-software)]
 - Open Data / Synthetic Data
-- Professional development
+- Professional Development
+  - Training 
+  - Self-taught
+    - [Stack Overflow](https://stackoverflow.com/)
 
 ## References
-- [NHS-R Community Handbook](https://nhs-r-community.github.io/statements-on-tools/index.html)
-- [The Goldacre Report](https://www.goldacrereview.org/)
-- [OSR Overcoming Barriers to Adoption of RAP](https://osr.statisticsauthority.gov.uk/publication/reproducible-analytical-pipelines-overcoming-barriers-to-adoption/)
+- [NHS-R Community Handbook](https://nhs-r-community.github.io/statements-on-tools/index.html). NHS-R Community
+- [The Goldacre Report](https://www.goldacrereview.org/). Department of Health and Social Care
+- [Overcoming Barriers to Adoption of RAP](https://osr.statisticsauthority.gov.uk/publication/reproducible-analytical-pipelines-overcoming-barriers-to-adoption/). Office for Statistics Regulation
 - [NHSX Open Source Policy (DRAFT)](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md)
-- [NHSD RAP Community of Practice](https://github.com/NHSDigital/rap-community-of-practice)
-- [NHS England IT Standards](https://nhsengland.github.io/it-standards/#/euc/desktop-software?id=open-source-amp-free-software)
+- [RAP Community of Practice](https://github.com/NHSDigital/rap-community-of-practice). NHS Digital
+- [NHS England IT Standards](https://nhsengland.github.io/it-standards/#/euc/desktop-software?id=open-source-amp-free-software). NHS England
+- [R: A Language and Environment for Statistical Computing.](https://www.R-project.org/). R Core Team
