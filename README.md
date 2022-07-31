@@ -24,11 +24,13 @@ We are commissioning a physical booklet summarising everything open-source into 
   - Pull Request
   - Code Review
   - Social Coding
-- Reproducible Analytical Pipelines [[1](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/)]
-  - Formalise a system of quality assurance (QA) in an auditable way
-  - Linking documentation to code
-  - Procedural programming and unit testing
-  - Automation of the analytical process
+- Reproducible Analytical Pipelines [[1](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/),[2](https://github.com/NHSDigital/rap-community-of-practice/tree/main/development-approach)]
+  - Auditable Quality Assurance (QA)
+  - Documentation
+  - Modular Code
+  - Unit Testing
+  - Tidy Data
+  - Automation
 - NHS Policy [[1](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md),[2](https://nhsengland.github.io/it-standards/#/euc/desktop-software?id=open-source-amp-free-software)]
 - Open Data / Synthetic Data
 - Professional Development
