@@ -5,11 +5,10 @@ We are commissioning a physical booklet summarising everything open-source into 
 ## Chapters
 
 - What is open-source?
-  - Coding in the open [[1](https://nhs-r-community.github.io/statements-on-tools/open-code-in-the-nhs.html)]
-     - Data
-     - Privileged Credentials
-     - Sensitive Information
-     - Proprietary Information
+  - Growth in recent years
+  - Benefit to the NHS
+  - What it is not
+  - Licensing
 - Open-source Tools
   - R [[1](https://www.R-project.org/)]
   - Python
@@ -25,19 +24,25 @@ We are commissioning a physical booklet summarising everything open-source into 
   - Code Review
   - Social Coding
 - Reproducible Analytical Pipelines [[1](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/),[2](https://github.com/NHSDigital/rap-community-of-practice/tree/main/development-approach)]
+  - Coding in the open [[1](https://nhs-r-community.github.io/statements-on-tools/open-code-in-the-nhs.html)]
+     - Data
+     - Privileged Credentials
+     - Sensitive Information
+     - Proprietary Information
   - Quality Assurance (QA)
   - Documentation
   - Modular Code
   - Unit Testing
   - Tidy Data
   - Automation
+- Open NHS Datasets
+  - Synthetic Data Generation
 - Communities of Practice
   - NHS-R
   - NHS Python
   - RAP
   - Conferences
 - NHS Policy [[1](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md),[2](https://nhsengland.github.io/it-standards/#/euc/desktop-software?id=open-source-amp-free-software)]
-- Open Data / Synthetic Data
 - Professional Development
   - Training 
   - Self-taught
