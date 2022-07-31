@@ -20,7 +20,15 @@ We are commissioning a physical booklet summarising everything open-source into 
   - RAP
   - Conferences
 - Git and GitHub/GitLab
-- Reproducible Analytical Pipelines
+  - Version Control
+  - Pull Request
+  - Code Review
+  - Social Coding
+- Reproducible Analytical Pipelines [[1](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/)]
+  - Formalise a system of quality assurance (QA) in an auditable way
+  - Linking documentation to code
+  - Procedural programming and unit testing
+  - Automation of the analytical process
 - NHS Policy [[1](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md),[2](https://nhsengland.github.io/it-standards/#/euc/desktop-software?id=open-source-amp-free-software)]
 - Open Data / Synthetic Data
 - Professional Development
@@ -34,5 +42,7 @@ We are commissioning a physical booklet summarising everything open-source into 
 - [Overcoming Barriers to Adoption of RAP](https://osr.statisticsauthority.gov.uk/publication/reproducible-analytical-pipelines-overcoming-barriers-to-adoption/). Office for Statistics Regulation
 - [NHSX Open Source Policy (DRAFT)](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md)
 - [RAP Community of Practice](https://github.com/NHSDigital/rap-community-of-practice). NHS Digital
+- [Reproducible Analytical Pipelines](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/)
+- [ The Aqua Book: guidance on producing quality analysis for government ](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government)
 - [NHS England IT Standards](https://nhsengland.github.io/it-standards/#/euc/desktop-software?id=open-source-amp-free-software). NHS England
-- [R: A Language and Environment for Statistical Computing.](https://www.R-project.org/). R Core Team
+- [R: A Language and Environment for Statistical Computing](https://www.R-project.org/). R Core Team
