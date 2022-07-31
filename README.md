@@ -25,7 +25,7 @@ We are commissioning a physical booklet summarising everything open-source into 
   - Code Review
   - Social Coding
 - Reproducible Analytical Pipelines [[1](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/),[2](https://github.com/NHSDigital/rap-community-of-practice/tree/main/development-approach)]
-  - Auditable Quality Assurance (QA)
+  - Quality Assurance (QA)
   - Documentation
   - Modular Code
   - Unit Testing
