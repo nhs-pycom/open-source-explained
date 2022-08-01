@@ -1,6 +1,8 @@
 # open-source-explained
 
-We are commissioning a physical booklet summarising everything open-source into an easy-to-read format with pictures and infographics, that introduces the idea to NHS staff. 
+We are commissioning a physical booklet summarising everything open-source into an easy-to-read format with pictures and infographics, that introduces the idea to NHS staff.
+
+Inspiration drawn from the NHS England "Making Data Count" team: [https://www.england.nhs.uk/publication/making-data-count/](https://www.england.nhs.uk/publication/making-data-count/)
 
 ## Chapters
 
