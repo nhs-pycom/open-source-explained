@@ -8,7 +8,9 @@
 
 ## The growth in open-source use
 
-- 2.2.1 The ‘cambrian explosion’ visualisation captures the rise in open-source software in recent years. 
+- 2.2.1 The ‘cambrian explosion’ visualisation captures the rise in open-source software in recent years.
+
+![growth](../blob/main/assets/img/open-source-growth.png?raw=true)
 
 - 2.2.2 From the first open-source repo published by NHS England in 2014, to over 1,200 today.
 
