@@ -5,7 +5,8 @@
 - 1.1.3 Opening our work, means that we can also give it back to the people who fund it, the public. Allowing them to better understand and trust the work we do on their behalf.
 - The Department of Health & Social Care has made a commitment to make all new NHS code open-source and published under open licences which define the legal terms for free access and reuse.
 
-Ref NHSDT. Open-source policy. [https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md)
+Ref: NHSDT. Open-source policy. [https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md)
+Ref: [Open Knowledge Foundation’s Open Definition](http://opendefinition.org/od/2.1/en/)
 
 # Use of open-source in the NHS
 
