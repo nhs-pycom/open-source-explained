@@ -20,6 +20,7 @@ We are commissioning a physical booklet summarising everything open-source into 
     - Information Governance
 - [Git and GitHub/GitLab](https://github.com/nhs-pycom/open-source-explained/blob/main/3-git-and-github-gitlab.md)
   - Version Control
+  - Readme.md
   - Pull Request
   - Code Review
   - Social Coding
