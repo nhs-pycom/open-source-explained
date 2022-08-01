@@ -26,7 +26,9 @@ Refs: NHS Python Community. Open-Source Health Statistics. [https://nhs-pycom.ne
 
 - 3.1.1 As set out in the NHS Digital Service Manual, public services are built with public money–so unless there’s a good reason not to (security for example), all code produced by the NHS should be made publicly available.
 - 3.1.2 Any open code can be reused by our developers to reduce costs, avoid duplication of effort, generally increase staff efficiency, make system changes more quickly and pursue the best approaches, not just those locally available. 
-- 3.1.3 Publishing under open licences also drives up the quality of services we buy and promotes a more varied ecosystem of products and providers.
+- 3.1.3 Others can learn from your experiences
+- 3.1.4 Others find uses for your code which you had not found
+- 3.1.5 Publishing under open licences also drives up the quality of services we buy and promotes a more varied ecosystem of products and providers.
 
 Ref NHSDT. Open-source policy. [https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md)
 
