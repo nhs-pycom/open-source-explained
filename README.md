@@ -19,11 +19,11 @@ Inspiration drawn from the NHS England "Making Data Count" team: [https://www.en
 - [NHS-R Community Handbook](https://nhs-r-community.github.io/statements-on-tools/index.html). NHS-R Community
 - [The Goldacre Report](https://www.goldacrereview.org/). Department of Health and Social Care
 - [Overcoming Barriers to Adoption of RAP](https://osr.statisticsauthority.gov.uk/publication/reproducible-analytical-pipelines-overcoming-barriers-to-adoption/). Office for Statistics Regulation
-- [NHSX Open Source Policy (DRAFT)](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md)
+- [NHS Open Source Policy (DRAFT)](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md). NHS England Digital Transformation Directorate
 - [RAP Community of Practice](https://github.com/NHSDigital/rap-community-of-practice). NHS Digital
-- [Reproducible Analytical Pipelines](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/)
+- [Reproducible Analytical Pipelines](https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/). GDS
 - [Benefits to government from Reproducible Analytical Pipelines](https://gss.civilservice.gov.uk/reproducible-analytical-pipelines/benefits-to-government-from-reproducible-analytical-pipelines/). The Government Statistical Service (GSS)
-- [The Aqua Book: guidance on producing quality analysis for government ](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government)
+- [The Aqua Book: guidance on producing quality analysis for government](https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government). HM Treasury
 - [Quality assurance of code for analysis and research](https://best-practice-and-impact.github.io/qa-of-code-guidance/checklist_higher.html). UK Government Analytical Community, ONS
 - [NHS England IT Standards](https://nhsengland.github.io/it-standards/#/euc/desktop-software?id=open-source-amp-free-software). NHS England
 - [The Turing Way handbook to reproducible, ethical and collaborative data science](https://the-turing-way.netlify.app/welcome.html). The Turing Way Community
