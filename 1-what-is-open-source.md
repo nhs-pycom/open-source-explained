@@ -6,6 +6,7 @@
 - The Department of Health & Social Care has made a commitment to make all new NHS code open-source and published under open licences which define the legal terms for free access and reuse.
 
 Ref: NHSDT. Open-source policy. [https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md)
+
 Ref: [Open Knowledge Foundation’s Open Definition](http://opendefinition.org/od/2.1/en/)
 
 # Use of open-source in the NHS
@@ -35,9 +36,15 @@ Refs: NHS Python Community. Open-Source Health Statistics. [https://nhs-pycom.ne
 
 Ref NHSDT. Open-source policy. [https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md)
 
-# What it is not
+# Myths about open-source
 
-- 4.1.1 Myth busting section
+- 4.1.1 Open-source projects have no support
+- 4.1.2 Open-source is free
+  - There may be support and maintenance costs 
+- 4.1.3 Open-source is developed by amateurs
+  - There are commercial open-source software available and open-source companies that are venture funded (elastic for example).
+  - Many proprietary platforms (Azure, AWS, Google Cloud) have developed open-source 'ecosystems' where you can interact with these platforms using open-source code. 
+  - Companies developing specialised software for the NHS may opt to use open-source code so that our own engineers can use/maintain these tools going forward.
 
 # Licensing
 
