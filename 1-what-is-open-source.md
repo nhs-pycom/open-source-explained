@@ -30,6 +30,8 @@ Refs: NHS Python Community. Open-Source Health Statistics. [https://nhs-pycom.ne
 - 3.1.3 Others can learn from your experiences
 - 3.1.4 Others find uses for your code which you had not found
 - 3.1.5 Publishing under open licences also drives up the quality of services we buy and promotes a more varied ecosystem of products and providers.
+- 3.1.6 Open source code can save teams duplicating effort and help them build better services faster.
+- 3.1.7 Publishing source code under an open licence means that you're less likely to get locked in to working with a single supplier.
 
 Ref NHSDT. Open-source policy. [https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md](https://github.com/nhsx/open-source-policy/blob/main/open-source-policy.md)
 
