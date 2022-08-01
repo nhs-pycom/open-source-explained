@@ -2,6 +2,7 @@
 
 - 1.1.1 Open-source is the practice of publishing the source code of a software project so that anyone can read, modify, re-use, and improve that software.
 - 1.1.2 With open-source we can adapt and improve the best technology the world has to offer and bring it to the NHS.
+- 1.1.3 Opening our work, means that we can also give it back to the people who fund it, the public. Allowing them to better understand and trust the work we do on their behalf.
 
 # Use of open-source in the NHS
 
