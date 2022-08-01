@@ -61,4 +61,4 @@ We are commissioning a physical booklet summarising everything open-source into 
 - [NHS England IT Standards](https://nhsengland.github.io/it-standards/#/euc/desktop-software?id=open-source-amp-free-software). NHS England
 - [The Turing Way handbook to reproducible, ethical and collaborative data science](https://the-turing-way.netlify.app/welcome.html). The Turing Way Community
 - [R: A Language and Environment for Statistical Computing](https://www.R-project.org/). R Core Team
-- [GDS service manual. Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable)
+- [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable). GDS service manual
