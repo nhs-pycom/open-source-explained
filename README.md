@@ -15,6 +15,13 @@ Inspiration drawn from the NHS England "Making Data Count" team: [https://www.en
 7. [NHS Policy](https://github.com/nhs-pycom/open-source-explained/blob/main/7.nhs-policy.md)
 8. [Professional Development](https://github.com/nhs-pycom/open-source-explained/blob/main/8.professional-development.md)
 
+## Features
+
+a. [NHS App](https://github.com/nhs-pycom/open-source-explained/blob/main/feature-nhs-app.md)
+b. [Digital Service Manual](https://github.com/nhs-pycom/open-source-explained/blob/main/)
+c. [NHSR plot the dots](https://github.com/nhs-pycom/open-source-explained/blob/main/)
+d. [openSAFELY](https://github.com/nhs-pycom/open-source-explained/blob/main/feature-open-safely.md)
+
 ## References
 - [NHS-R Community Handbook](https://nhs-r-community.github.io/statements-on-tools/index.html). NHS-R Community
 - [The Goldacre Report](https://www.goldacrereview.org/). Department of Health and Social Care
