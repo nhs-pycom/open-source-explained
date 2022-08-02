@@ -48,6 +48,7 @@ Ref Opensource.com [https://opensource.com/resources/what-open-source](https://o
   - There are commercial open-source software available and open-source companies that are venture funded (elastic for example).
   - Many proprietary platforms (Azure, AWS, Google Cloud) have developed open-source 'ecosystems' where you can interact with these platforms using open-source code. 
   - Companies developing specialised software for the NHS may opt to use open-source code so that our own engineers can use/maintain these tools going forward.
+- 4.1.4 Open-source means using a Linux operating system
 
 # Licensing
 
