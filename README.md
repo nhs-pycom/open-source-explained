@@ -17,10 +17,10 @@ Inspiration drawn from the NHS England "Making Data Count" team: [https://www.en
 
 ## Features
 
-a. [NHS App](https://github.com/nhs-pycom/open-source-explained/blob/main/feature-nhs-app.md)
-b. [Digital Service Manual](https://github.com/nhs-pycom/open-source-explained/blob/main/)
-c. [NHSR plot the dots](https://github.com/nhs-pycom/open-source-explained/blob/main/)
-d. [openSAFELY](https://github.com/nhs-pycom/open-source-explained/blob/main/feature-open-safely.md)
+1. [NHS App](https://github.com/nhs-pycom/open-source-explained/blob/main/feature-nhs-app.md)
+2. [Digital Service Manual](https://github.com/nhs-pycom/open-source-explained/blob/main/)
+3. [NHSR plot the dots](https://github.com/nhs-pycom/open-source-explained/blob/main/)
+4. [openSAFELY](https://github.com/nhs-pycom/open-source-explained/blob/main/feature-open-safely.md)
 
 ## References
 - [NHS-R Community Handbook](https://nhs-r-community.github.io/statements-on-tools/index.html). NHS-R Community
