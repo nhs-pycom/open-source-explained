@@ -18,7 +18,7 @@ Inspiration drawn from the NHS England "Making Data Count" team: [https://www.en
 ## Features
 
 1. [NHS App](https://github.com/nhs-pycom/open-source-explained/blob/main/feature-nhs-app.md)
-2. [Digital Service Manual](https://github.com/nhs-pycom/open-source-explained/blob/main/)
+2. [Digital Service Manual](https://github.com/nhs-pycom/open-source-explained/blob/main/feature-digital-service-manual.md)
 3. [NHSR plot the dots](https://github.com/nhs-pycom/open-source-explained/blob/main/feature-nhsrplotthedots.md)
 4. [openSAFELY](https://github.com/nhs-pycom/open-source-explained/blob/main/feature-open-safely.md)
 
